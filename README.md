@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**PedroHenriqueMarquesAmorim/PedroHenriqueMarquesAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Pedro Henrique - Portfolio
 
-Here are some ideas to get you started:
+Este é meu portfólio pessoal desenvolvido com HTML, CSS e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+Estudante de Engenharia da Computação no Centro Universitário de Brasília.
+
+## 🛠️ Tecnologias
+- C
+- Python
+
+## 📌 Projetos
+- Edição de filme premiado em projeto escolar
+- Simulação de jovem executivo (3º lugar e certificado)
+
+## 📫 Contato
+- Email: pedrohema07@gmail.com
+- LinkedIn: [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-marques-amorim-1a16b140a/)
+- GitHub: https://github.com/pedrohenriquemarquesamrorim
+
+---
+
+💡 Projeto em constante evolução.
