@@ -9,6 +9,7 @@ Estudante de Engenharia da Computação no Centro Universitário de Brasília.
 ## 🛠️ Tecnologias
 - C
 - Python
+- Java
 
 ## 📌 Projetos
 - Edição de filme premiado em projeto escolar
